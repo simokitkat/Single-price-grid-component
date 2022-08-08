@@ -1,2 +1,1 @@
-# Single-price-grid-component
-HTML &amp; CSS
+# This is a HTML & CSS responsive design!
