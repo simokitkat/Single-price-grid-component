@@ -55,7 +55,6 @@ main {
 @media (max-height: 600px) {
     .card {
         margin-top: 2%;
-        margin-bottom: 2%;
     }
 }
 
@@ -190,6 +189,14 @@ ul {
 .attribution {
     font-size: 11px;
     text-align: center;
+    font-weight: 700;
+    color: hsla(180, 56%, 8%, 0.7);
+}
+
+@media (max-width:769px) {
+    .attribution {
+        margin-top: 0;
+    }
 }
 
 .attribution a {
